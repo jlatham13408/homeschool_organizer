@@ -1,0 +1,24 @@
+{
+  "name": "homeschool_organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlatham13408/homeschool_organizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlatham13408/homeschool_organizer/issues"
+  },
+  "homepage": "https://github.com/jlatham13408/homeschool_organizer#readme"
+}
