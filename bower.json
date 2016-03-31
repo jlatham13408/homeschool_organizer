@@ -1,0 +1,33 @@
+{
+  "name": "angular-ui-calendar",
+  "version": "latest",
+  "description": "A complete AngularJS directive for the Arshaw FullCalendar.",
+  "author": "https://github.com/angular-ui/ui-calendar/graphs/contributors",
+  "license": "MIT",
+  "homepage": "http://angular-ui.github.com",
+  "main": "./src/calendar.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test*",
+    "demo*",
+    "gruntFile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular-ui-calendar": "latest",
+    "angular": "latest",
+    "jquery": "latest",
+    "fullcalendar": "latest",
+    "moment": "latest"
+  },
+  "devDependencies": {
+    "angular-mocks": "latest",
+    "bootstrap-css": "latest"
+  },
+  "resolutions": {
+    "jquery": "2.2.2",
+    "angular": "1.5.3"
+  }
+}
